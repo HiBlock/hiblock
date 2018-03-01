@@ -2,6 +2,8 @@
 hiblock blockchain community
 
 # 如何加入我们
+微信添加小助手（baobaotalk_com）  
+或者发邮件：info@hiblock.net
 
 # 当前的活动
 
