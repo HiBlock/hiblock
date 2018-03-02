@@ -23,11 +23,11 @@ HiBlock秉承开放、协作、透明、链接、分享的价值观，致力打�
 3. 一起译文档
 很多好的文档、资讯是英文的，我们一起来做知识的搬运工吧  
 （牵头人：BoB）
-参与人：BoB、申岩、林海龙、李盈、Joe、Tom Yang、Scott、JohnGe、Janle、吴文栋、林哲滢、A、李捷、孔庆丰、Layla、in、yifei、Katie、Kerwin、北京-李京、林涵、Swieer、范艳开、陈倪霖、三万分之一、袁梦、慧宁、Chunlei.Shek（振利）、山东东营-孔庆丰、河马、淘飞翔、weide、星辰、Doye
+参与人：BoB、申岩、林海龙、李盈、Joe、Tom Yang、Scott、JohnGe、Janle、吴文栋、林哲滢、A、李捷、孔庆丰、Layla、in、yifei、Katie、Kerwin、北京-李京、林涵、Swieer、范艳开、陈倪霖、三万分之一、袁梦、慧宁、Chunlei.Shek（振利）、山东东营-孔庆丰、河马、淘飞翔、weide、星辰、Doye、Mike
 
 4. 一起磨课程
 将专业技术知识分享给更多的人。可以是一堂课的分享，也可以是打磨一个系列课程。  
 （牵头人：安国平）
-参与人：BoB、柳开李盈、Joe、Tom Yang、李娟、陈安、JohnGe、石头、高博、五颗星、Katie、陈伟凌、王兆谨、张五哥、Near 超越、北京-马峥、上海-夹克-品朴信息-CTO、Mobius、安落、陈倪霖、三万分之一、彬、ada、More、重庆-小于、淘飞翔、文炼、weide、淘飞翔、杨胜
+参与人：BoB、柳开李盈、Joe、Tom Yang、李娟、陈安、JohnGe、石头、高博、五颗星、Katie、陈伟凌、王兆谨、张五哥、Near 超越、北京-马峥、上海-夹克-品朴信息-CTO、Mobius、安落、陈倪霖、三万分之一、彬、ada、More、重庆-小于、淘飞翔、文炼、weide、淘飞翔、杨胜、Mike、胡嶂敏
 
 如果您要报名以上哪个活动，请添加微信小助手（baobaotalk_com）直接回复数字【可多选】
