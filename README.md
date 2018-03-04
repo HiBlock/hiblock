@@ -15,8 +15,7 @@ HiBlock blockchain community
 HiBlock秉承开放、协作、透明、链接、分享的价值观，致力打造一个专注于区块链的开发者社区，我们不仅在开发者中宣传推广区块链，还会帮助开发者真正掌握区块链技术和应用。  
 
 一起搞事情吧【潜在可以做的，欢迎补充】  
-[学习资源清单(./learning-materials.md)  
-
+[学习资源清单](./learning-materials.md)  
 
 1. 一起读代码  
 社区网址：[http://hiblock.net/topics/node21](http://hiblock.net/topics/node21)  
