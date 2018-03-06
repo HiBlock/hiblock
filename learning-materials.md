@@ -6,6 +6,8 @@
 - [区块链技术博客TryBlockchain](http://me.tryblockchain.org/)
 - [深入浅出区块链](http://www.tryblockchain.org/)
 - [以太坊技术视频EthCast](http://ethcast.com/)
+- [Blockchain introduction](http://complexitylabs.io/course/blockchain-introduction/)
+- [Learn to smart contract and DApp](https://www.newline.co/)
 
 ## 相关书籍
 
