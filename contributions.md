@@ -9,6 +9,7 @@
 江华 | [ugChain技术测评](https://www.jianshu.com/p/e59721306661)  
 陈伟凌 | [区块链的token应该译作权符，而不是代币、通证](https://www.toutiao.com/i6532376164458037767)  
 陈伟凌 | [从道法术三个层面理解区块链（一）术](https://www.toutiao.com/i6532740317500670471)  
+陈伟凌 | [比特币的transaction应译作转易，而不是交易](https://www.toutiao.com/i6534461154251506180)    
 
 2. 一起写笔记  
 社区网址：[http://hiblock.net/topics/node22](http://hiblock.net/topics/node22)  

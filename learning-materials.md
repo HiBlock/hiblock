@@ -1,5 +1,12 @@
 # 学习资源清单
 
+## 白皮书
+
+- [比特币白皮书-EN](https://bitcoin.org/en/bitcoin-paper)
+- [比特币白皮书-CN](http://mp.weixin.qq.com/s/moXzpQSloUOd_ehTFNKmqw)
+- [以太坊白皮书-CN](http://mp.weixin.qq.com/s/rc1SklbrZnMdhCEq1fGhBQ)
+
+
 ## 以太坊
 
 - [游戏化学习Solidity智能合约](https://cryptozombies.io/)
