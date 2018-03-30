@@ -1,9 +1,14 @@
 # HiBlock区块链社区
 
-HiBlock blockchain community  
-社区网站首页[http://hiblock.net/](http://hiblock.net/)  
+HiBlock blockchain developer community  
+[访问社区](http://hiblock.net/)  
 
-另一个仓库[HiBlock仓库](https://github.com/etherchina)
+HiBlock社区当前包含2个组织：  
+1. HiBlock  
+2. EthChina  
+
+[HiBlock仓库](https://github.com/HiBlock)  
+[EthChina仓库](https://github.com/ethchina)  
 
 # 如何加入我们
 
