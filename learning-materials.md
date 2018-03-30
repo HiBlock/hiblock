@@ -22,3 +22,8 @@
 - [精通比特币](http://book.8btc.com/masterbitcoin2cn)
 - [白话区块链](https://item.jd.com/12236097.html)
 - [区块链技术驱动金融](https://item.jd.com/23998528249.html)
+
+HiBlock秉承开放、协作、透明、链接、分享的价值观，致力打造一个专注于区块链的开发者社区，我们不仅在开发者中宣传推广区块链，还会帮助开发者真正掌握区块链技术和应用。  
+[访问HiBlock社区](hiblock.net)  
+[访问HiBlock仓库1](https://github.com/HiBlock/)  
+[访问HiBlock仓库2](https://github.com/etherchina/)  
