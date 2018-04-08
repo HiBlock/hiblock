@@ -1,10 +1,7 @@
 # HiBlock区块链社区
 
-HiBlock blockchain developer community  
-[访问社区](http://hiblock.net/)  
-
-[线下沙龙入口](https://github.com/HiBlock/hiblock/tree/master/meetup)  
-[社区周报](https://github.com/HiBlock/hiblock/tree/master/weekly-report)  
+[!线下沙龙!](https://github.com/HiBlock/hiblock/tree/master/meetup)  
+[!社区周报!](https://github.com/HiBlock/hiblock/tree/master/weekly-report)  
 
 HiBlock社区当前包含2个组织：  
 1. HiBlock  
@@ -13,13 +10,7 @@ HiBlock社区当前包含2个组织：
 [HiBlock仓库](https://github.com/HiBlock)  
 [EthChina仓库](https://github.com/etherchina)  
 
-# 如何加入我们
-
-微信添加小助手（baobaotalk_com）  
-或者发邮件：info@hiblock.net  
-
 # 当前的活动
-
 HiBlock秉承开放、协作、透明、链接、分享的价值观，致力打造一个专注于区块链的开发者社区，我们不仅在开发者中宣传推广区块链，还会帮助开发者真正掌握区块链技术和应用。  
 
 0. 提出有意义的问题  
@@ -48,11 +39,19 @@ HiBlock秉承开放、协作、透明、链接、分享的价值观，致力打�
 说明：将专业技术知识分享给更多的人。可以是一堂课的分享，也可以是打磨一个系列课程。  
 **牵头人：招募中**  
 
+5. 一起学以太坊  
+**牵头人：招募中**  
+
+6. 一起学EOS  
+**牵头人：招募中**  
+
+7. 更多活动需要你的参与
+
 一起搞事情吧【潜在可以做的，欢迎补充】  
 [学习资源清单](./learning-materials.md)  
 [贡献列表](./contributions.md)
 
-如果您要报名以上哪个活动，请添加微信小助手（baobaotalk_com）（或扫描二维码），然后直接回复数字【可多选，如1/2/3/4】  
+# 加入微信群  
+  
 扫描二维码加入微信群  
 ![](https://github.com/HiBlock/hiblock/blob/master/images/HiBlock_wechat_qrcode.jpeg)
-
