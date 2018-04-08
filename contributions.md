@@ -1,4 +1,6 @@
-# 贡献列表
+# 贡献列表  
+
+列表不定期更新，如果更新不及时，欢迎通过Pull Request方式提交修改。
 
 1. 一起读代码  
 社区网址：[http://hiblock.net/topics/node21](http://hiblock.net/topics/node21)  
