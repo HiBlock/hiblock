@@ -10,5 +10,7 @@ HiBlock blockchain developer community
 ## 已完成  
 - HiBlock线下沙龙001 -- [北京4月7日活动介绍](http://t.cn/RmvNvQC)    
 
+
+
 扫描二维码加入微信大群  
 ![](https://github.com/HiBlock/hiblock/blob/master/images/HiBlock_wechat_qrcode.jpeg)
