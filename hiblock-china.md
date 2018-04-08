@@ -1,9 +1,6 @@
 # HiBlock线下沙龙
 
-欢迎[报名当地组织者](https://github.com/HiBlock/hiblock/issues/new?title=报名HiBlock线下沙龙组织者&body=- 姓名：%0A- 城市：%0A- 我的特长是：%0A- 为什么要申请组织者：%0A)
-
-加入微信大群，请添加微信小助手（baobaotalk_com）（或扫描二维码）    
-![](https://github.com/HiBlock/hiblock/blob/master/images/HiBlock_wechat_qrcode.jpeg)
+欢迎[报名当地组织者](https://github.com/HiBlock/hiblock/issues/new?title=报名HiBlock线下沙龙组织者&body="- 姓名：%0A- 城市：%0A- 我的特长是：%0A- 为什么要申请组织者：%0A")
 
 ## 活动目的  
 统一以HiBLock区块链社区的名义，在全国各地组织举办线下活动，形成联动和规模，以区块链相关技术为内容分享传播区块链技术，实现链接全球区块链开发者的目标。
@@ -85,3 +82,7 @@ HiBlock秉承开放、协作、透明、链接、分享的价值观，致力打�
 [访问HiBlock社区](hiblock.net)  
 [访问HiBlock仓库1](https://github.com/HiBlock/)  
 [访问HiBlock仓库2](https://github.com/etherchina/)  
+
+
+加入微信大群，请添加微信小助手（baobaotalk_com）（或扫描二维码）    
+![](https://github.com/HiBlock/hiblock/blob/master/images/HiBlock_wechat_qrcode.jpeg)

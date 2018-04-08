@@ -4,6 +4,7 @@ HiBlock blockchain developer community
 [访问社区](http://hiblock.net/)  
 
 [线下沙龙入口](https://github.com/HiBlock/hiblock/tree/master/meetup)  
+[社区周报](https://github.com/HiBlock/hiblock/tree/master/weekly-report)  
 
 HiBlock社区当前包含2个组织：  
 1. HiBlock  
