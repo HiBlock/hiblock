@@ -58,6 +58,11 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 [学习资源清单](./learning-materials.md)  
 [贡献列表](./contributions.md)  
 
+# 合作伙伴（Partner）
+- [Brahma OS](https://www.brahmaos.io/)  
+- [Olympus Labs](https://olympuslabs.io/)  
+- 申请成为合作伙伴，联系： bob@hiblock.net
+
 # 加入微信群  
   
 扫描二维码加入微信群  
