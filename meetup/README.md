@@ -7,7 +7,7 @@
 - HiBlock线下沙龙004 -- [西安4月22日活动介绍](http://www.huodongxing.com/event/5435676971800)
 - HiBlock线下沙龙005 -- 北京5月13日活动介绍
 - HiBlock线下沙龙006 -- 福州5月19日活动介绍
-- HiBlock线下沙龙007 -- 上海4月29日活动介绍
+- HiBlock线下沙龙007 -- 上海5月12日活动介绍
 - HiBlock线下沙龙其他城市正在积极筹备中  
 - 欢迎[报名当地组织者](https://github.com/HiBlock/hiblock/issues/new?title=报名HiBlock线下沙龙组织者&body=-姓名：%0A-城市：%0A-我的特长是：%0A-为什么要申请组织者：%0A)  
 
