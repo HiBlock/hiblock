@@ -3,7 +3,7 @@
 ## 计划  
 
 - HiBlock线下沙龙002 -- [杭州4月22日活动介绍](http://t.cn/Rm6XbHB)
-- HiBlock线下沙龙003 -- [北京4月22日活动介绍](https://www.bagevent.com/event/1371329)
+- HiBlock线下沙龙003 -- 北京4月22日活动介绍
 - HiBlock线下沙龙004 -- [西安4月22日活动介绍](http://www.huodongxing.com/event/5435676971800)
 - HiBlock线下沙龙005 -- 北京5月13日活动介绍
 - HiBlock线下沙龙西安、上海、杭州、厦门、大连、重庆、成都正在积极筹备中  
