@@ -33,3 +33,12 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 - [Brahma OS](https://www.brahmaos.io/)  
 - [Olympus Labs](https://olympuslabs.io/)  
 - 申请成为合作伙伴，联系： bob@hiblock.net
+
+## 活动合影记录
+
+时间			|	地点				|	合影
+------		|--------			|---------
+2018.4.22	|杭州 				| ![](./images/20180422-hangzhou.jpeg =300x200)
+2018.4.22	|西安 				| ![](./images/20180422-xian.jpeg =300x200)
+2018.4.22	|北京 				| ![](./images/20180422-beijing.jpeg =300x200)
+2018.4.7	|北京 				| ![](./images/20180407-beijing.jpeg =300x200)
