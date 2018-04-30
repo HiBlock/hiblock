@@ -3,7 +3,7 @@
 ## 计划  
 - HiBlock线下沙龙005 -- 北京5月13日活动介绍
 - HiBlock线下沙龙006 -- 福州5月19日活动介绍
-- HiBlock线下沙龙007 -- 上海5月12日活动介绍
+- HiBlock线下沙龙007 -- 上海5月19日活动介绍
 - HiBlock线下沙龙其他城市正在积极筹备中  
 - 欢迎[报名当地组织者](https://github.com/HiBlock/hiblock/issues/new?title=报名HiBlock线下沙龙组织者&body=-姓名：%0A-城市：%0A-我的特长是：%0A-为什么要申请组织者：%0A)  
 
@@ -13,6 +13,7 @@
 - HiBlock线下沙龙002 -- [杭州4月22日活动介绍](http://t.cn/Rm6XbHB)
 - HiBlock线下沙龙003 -- [北京4月22日活动介绍](http://www.huodongxing.com/event/3435955404500)
 - HiBlock线下沙龙004 -- [西安4月22日活动介绍](http://www.huodongxing.com/event/5435676971800)
+- HiBlock线下沙龙（增加1次） -- 北京线下一起写代码
 
 ## HiBlock支持
 - 图书
@@ -37,6 +38,7 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 
 时间			|	地点				|	合影
 ------		|--------			|---------
+2018.4.28	|北京 				| ![](../images/20180428-beijing.jpeg)
 2018.4.22	|杭州 				| ![](../images/20180422-hangzhou.jpeg)
 2018.4.22	|西安 				| ![](../images/20180422-xian.jpeg)
 2018.4.22	|北京 				| ![](../images/20180422-beijing.jpeg)
