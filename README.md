@@ -3,12 +3,14 @@
 [**线下沙龙**](https://github.com/HiBlock/hiblock/tree/master/meetup)  
 [**社区周报**](https://github.com/HiBlock/hiblock/tree/master/weekly-report)  
 
-HiBlock社区当前包含2个组织：  
-1. HiBlock  
-2. EthChina  
+HiBlock社区包含组织：  
+1. [HiBlock](https://github.com/HiBlock)    
+2. [EthChina](https://github.com/etherchina)    
+3. [共同学习区块链](https://github.com/HiBlock/blockchain-learning)  
 
-[HiBlock仓库](https://github.com/HiBlock)  
-[EthChina仓库](https://github.com/etherchina)  
+## 课程与meetup
+- [线上课程](https://m.qlchat.com/wechat/page/live/2000000613974138)  
+- [线下meetup](http://hiblock.huodongxing.com/)  
 
 # 社区需要你  
 - 社区运营（无论全职还是兼职，都是欢迎的）  
