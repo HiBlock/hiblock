@@ -13,10 +13,7 @@ HiBlock社区包含组织：
 - [线下meetup](http://hiblock.huodongxing.com/)  
 
 # 社区需要你  
-- 社区运营（无论全职还是兼职，都是欢迎的）  
-- 课程运营  
-- 网站开发  
-- 欢迎为社区建设添砖加瓦。[对HiBlock社区我要说](https://github.com/HiBlock/hiblock/issues/new)  
+- 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
 - 联系方式：bob@hiblock.net  
 
 # 当前的活动
