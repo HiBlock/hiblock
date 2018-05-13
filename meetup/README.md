@@ -1,10 +1,9 @@
 # HiBlock区块链社区线下沙龙汇总
 
 ## 计划  
-- HiBlock线下沙龙005 -- 北京5月13日活动介绍
-- HiBlock线下沙龙006 -- 西安5月27日活动介绍
 - HiBlock线下沙龙007 -- 上海5月19日活动介绍
-- HiBlock线下沙龙000 -- 天津
+- HiBlock线下沙龙008 -- 西安5月27日活动介绍
+- HiBlock线下沙龙009 -- 天津6月2日活动介绍
 - HiBlock线下沙龙000 -- 大连
 - HiBlock线下沙龙000 -- 杭州
 - HiBlock线下沙龙000 -- 福州
@@ -17,7 +16,12 @@
 - HiBlock线下沙龙002 -- [杭州4月22日活动介绍](http://t.cn/Rm6XbHB)
 - HiBlock线下沙龙003 -- [北京4月22日活动介绍](http://www.huodongxing.com/event/3435955404500)
 - HiBlock线下沙龙004 -- [西安4月22日活动介绍](http://www.huodongxing.com/event/5435676971800)
-- HiBlock线下沙龙（增加1次） -- 北京线下一起写代码
+- HiBlock线下沙龙005 -- 北京线下一起写代码
+- HiBlock线下沙龙006 -- [北京5月13日活动介绍](http://www.huodongxing.com/event/2438909312000)
+
+## 社区需要你  
+- 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
+- 联系方式：bob@hiblock.net  
 
 ## HiBlock支持
 - 图书
@@ -40,10 +44,11 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 
 ## 活动合影记录
 
-时间			|	地点				|	合影
-------		|--------			|---------
-2018.4.28	|北京 				| ![](../images/20180428-beijing.jpeg)
-2018.4.22	|杭州 				| ![](../images/20180422-hangzhou.jpeg)
-2018.4.22	|西安 				| ![](../images/20180422-xian.jpeg)
-2018.4.22	|北京 				| ![](../images/20180422-beijing.jpeg)
-2018.4.7	|北京 				| ![](../images/20180407-beijing.jpeg)
+时间			|	地点				|	合影									|	下载PPT
+------		|--------			|---------								| ---------
+2018.5.13	|北京 				| ![](../images/20180513-beijing.jpeg)	| [下载](https://github.com/HiBlock/hiblock/tree/master/meetup/slides/20180513-beijing)
+2018.4.28	|北京 				| ![](../images/20180428-beijing.jpeg)	| [参考资料](https://github.com/etherchina/ethereum/blob/develop/petstore-truffle.md)
+2018.4.22	|杭州 				| ![](../images/20180422-hangzhou.jpeg)	| 无
+2018.4.22	|西安 				| ![](../images/20180422-xian.jpeg)	| [下载](https://github.com/HiBlock/hiblock/tree/master/meetup/slides/20180422-xian)
+2018.4.22	|北京 				| ![](../images/20180422-beijing.jpeg)	| [下载](https://github.com/HiBlock/hiblock/tree/master/meetup/slides/20180422-beijing)
+2018.4.7	|北京 				| ![](../images/20180407-beijing.jpeg)	| [下载](https://github.com/HiBlock/hiblock/tree/master/meetup/slides/20180407-beijing)
