@@ -10,6 +10,7 @@
 - 欢迎[报名当地组织者](https://github.com/HiBlock/hiblock/issues/new?title=报名HiBlock线下沙龙组织者&body=-姓名：%0A-城市：%0A-我的特长是：%0A-为什么要申请组织者：%0A)  
 
 ## 完成  
+- [Blockathon Global Tour Beijing 黑客马拉松](http://t.cn/RuceCUl)
 - [所有活动录像 - sponsored by IT大咖说](http://www.itdks.com/member/organizer/497)
 - HiBlock线下沙龙001 北京4月7日 -- [活动介绍](http://t.cn/RmvNvQC) | [活动报道1](https://mp.weixin.qq.com/s/O07F-ChvBSx6um4iw39qOw)  
 - HiBlock线下沙龙002 -- [杭州4月22日活动介绍](http://t.cn/Rm6XbHB)
