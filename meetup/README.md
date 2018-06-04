@@ -1,9 +1,11 @@
 # HiBlock区块链社区线下沙龙汇总
 
 ## 计划  
-- HiBlock线下沙龙009 -- [天津6月2日活动介绍](http://t.cn/R3g1IHu)
 - HiBlock线下沙龙010 -- [成都6月10日活动介绍](http://www.huodongxing.com/event/1442435371000)
 - HiBlock线下沙龙011 -- 深圳6月23日活动介绍
+- HiBlock线下沙龙012 -- 南京6月23日活动介绍
+- HiBlock线下沙龙013 -- 西安6月23日活动介绍
+- HiBlock线下沙龙014 -- 重庆6月23日活动介绍
 - HiBlock线下沙龙012 -- 福州7月21日活动介绍
 - HiBlock线下沙龙000 -- xx
 - HiBlock线下沙龙其他城市正在积极筹备中  
@@ -20,6 +22,7 @@
 - HiBlock线下沙龙006 -- [北京5月13日活动介绍](http://www.huodongxing.com/event/2438909312000)
 - HiBlock线下沙龙007 -- [上海5月19日活动介绍](http://www.huodongxing.com/event/6440024423700)
 - HiBlock线下沙龙008 -- [西安5月27日活动介绍](http://www.huodongxing.com/event/6440193405000)
+- HiBlock线下沙龙009 -- [天津6月2日活动介绍](http://t.cn/R3g1IHu)
 
 ## 社区需要你  
 - 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
@@ -48,6 +51,7 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 
 时间			|	地点				|	合影									|	下载PPT
 ------		|--------			|---------								| ---------
+2018.6.2	|天津 				| ![](../images/20180602-tianjin.jpeg)	|
 2018.5.27	|西安 				| ![](../images/20180527-xian.jpeg)	| [下载](https://github.com/HiBlock/hiblock/tree/master/meetup/slides/20180527-xian)
 2018.5.19	|上海 				| ![](../images/20180519-shanghai.jpeg)	| [下载](https://github.com/HiBlock/hiblock/tree/master/meetup/slides/20180519-shanghai)
 2018.5.13	|北京 				| ![](../images/20180513-beijing.jpeg)	| [下载](https://github.com/HiBlock/hiblock/tree/master/meetup/slides/20180513-beijing)
