@@ -84,7 +84,7 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 - [Olympus Labs](https://olympuslabs.io/)  
 - 申请成为合作伙伴，联系： bob@hiblock.net
 
-[访问HiBlock社区](hiblock.net)  
+[访问HiBlock社区](hiblock.one)  
 [访问HiBlock仓库1](https://github.com/HiBlock/)  
 [访问HiBlock仓库2](https://github.com/etherchina/)  
 
