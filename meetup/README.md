@@ -1,11 +1,13 @@
 # HiBlock区块链社区线下沙龙汇总
 
 ## 计划  
-- HiBlock线下沙龙012 -- [上海6月20日活动介绍](http://www.huodongxing.com/event/4444309566400)
+
 - HiBlock线下沙龙013 -- [深圳6月23日活动介绍](http://www.huodongxing.com/event/2444156140600)
 - HiBlock线下沙龙014 -- [西安6月23日活动介绍](http://www.huodongxing.com/event/5444140630400)
 - HiBlock线下沙龙015 -- [重庆6月23日活动介绍](http://www.huodongxing.com/event/1444184588000)
-- HiBlock线下沙龙016 -- 南京6月30日活动介绍
+- HiBlock线下沙龙016 -- [南京6月30日活动介绍](http://www.huodongxing.com/event/8445373205400)
+- HiBlock线下沙龙017 -- [上海7月4日活动介绍](http://www.huodongxing.com/event/6445591029300)
+- HiBlock线下沙龙018 -- 北京7月15日活动介绍
 - HiBlock线下沙龙000 -- xx
 - HiBlock线下沙龙其他城市正在积极筹备中  
 - 欢迎[报名当地组织者](https://github.com/HiBlock/hiblock/issues/new?title=报名HiBlock线下沙龙组织者&body=-姓名：%0A-城市：%0A-我的特长是：%0A-为什么要申请组织者：%0A)  
@@ -24,6 +26,7 @@
 - HiBlock线下沙龙009 -- [天津6月2日活动介绍](http://t.cn/R3g1IHu)
 - HiBlock线下沙龙010 -- [成都6月10日活动介绍](http://www.huodongxing.com/event/1442435371000)
 - HiBlock线下沙龙011 -- [上海6月13日活动介绍](http://www.huodongxing.com/event/1443667029900)
+- HiBlock线下沙龙012 -- [上海6月20日活动介绍](http://www.huodongxing.com/event/4444309566400)
 
 ## 社区需要你  
 - 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
