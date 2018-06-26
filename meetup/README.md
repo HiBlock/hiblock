@@ -2,9 +2,6 @@
 
 ## 计划  
 
-- HiBlock线下沙龙013 -- [深圳6月23日活动介绍](http://www.huodongxing.com/event/2444156140600)
-- HiBlock线下沙龙014 -- [西安6月23日活动介绍](http://www.huodongxing.com/event/5444140630400)
-- HiBlock线下沙龙015 -- [重庆6月23日活动介绍](http://www.huodongxing.com/event/1444184588000)
 - HiBlock线下沙龙016 -- [南京6月30日活动介绍](http://www.huodongxing.com/event/8445373205400)
 - HiBlock线下沙龙017 -- [上海7月4日活动介绍](http://www.huodongxing.com/event/6445591029300)
 - HiBlock线下沙龙018 -- 北京7月15日活动介绍
@@ -27,6 +24,9 @@
 - HiBlock线下沙龙010 -- [成都6月10日活动介绍](http://www.huodongxing.com/event/1442435371000)
 - HiBlock线下沙龙011 -- [上海6月13日活动介绍](http://www.huodongxing.com/event/1443667029900)
 - HiBlock线下沙龙012 -- [上海6月20日活动介绍](http://www.huodongxing.com/event/4444309566400)
+- HiBlock线下沙龙013 -- [深圳6月23日活动介绍](http://www.huodongxing.com/event/2444156140600)
+- HiBlock线下沙龙014 -- [西安6月23日活动介绍](http://www.huodongxing.com/event/5444140630400)
+- HiBlock线下沙龙015 -- [重庆6月23日活动介绍](http://www.huodongxing.com/event/1444184588000)
 
 ## 社区需要你  
 - 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
@@ -55,6 +55,8 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 
 时间			|	地点				|	合影									|	下载PPT
 ------		|--------			|---------								| ---------
+2018.6.23	|深圳 				| ![](../images/20180623-shenzhen.jpeg)	|
+2018.6.23	|西安 				| ![](../images/20180623-xian.jpeg)	|
 2018.6.10	|成都 				| ![](../images/20180610-chengdu.jpeg)	|
 2018.6.2	|天津 				| ![](../images/20180602-tianjin.jpeg)	|
 2018.5.27	|西安 				| ![](../images/20180527-xian.jpeg)	| [下载](https://github.com/HiBlock/hiblock/tree/master/meetup/slides/20180527-xian)
