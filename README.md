@@ -1,21 +1,18 @@
 # HiBlock区块链社区
 
-- [**线下沙龙**](https://github.com/HiBlock/hiblock/tree/master/meetup)  
-- [**社区周报**](https://github.com/HiBlock/hiblock/tree/master/weekly-report)  
+- [**meetup汇总**](https://github.com/HiBlock/meetup)  
 
 HiBlock社区包含组织：  
 1. [HiBlock Org](https://github.com/HiBlock)    
 2. [EthChina - Solidity翻译](https://github.com/etherchina)    
 3. [共同学习区块链 - 学习输出](https://github.com/HiBlock/blockchain-learning)  
 
-## 课程与meetup
+## 课程
 - [线上课程大本营](https://m.qlchat.com/wechat/page/live/2000000613974138)  
-- [线下meetup活动报名首页](http://hiblock.huodongxing.com/)  
-- [线下meetup汇总](https://github.com/HiBlock/hiblock/tree/master/meetup)  
 
 ## 社区需要你  
 - 技术布道者：要求，1. 对区块链技术有热情； 2. 对技术布道有热情； 3. 请参考1和2  
-- 联系方式：bob@hiblock.net 
+- 联系方式：bob@hiblock.one  
 - 微信：hiblocknet 
 
 ## 当前的活动
@@ -25,9 +22,11 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 [学习资源清单](./learning-materials.md)  
 
 ## 合作伙伴（Partner）
+- [BlockGeek](http://blockgeek.org)  
+- [NEM](http://nem.io)  
 - [Brahma OS](https://www.brahmaos.io/)  
 - [Olympus Labs](https://olympuslabs.io/)  
-- 申请成为合作伙伴，联系： bob@hiblock.net
+- 申请成为合作伙伴，联系： bob@hiblock.one
 
 ## 加入微信群  
   
